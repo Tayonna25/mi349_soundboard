@@ -1,5 +1,6 @@
 body{
-    background-color: grey;
+    background: grey;
+    color: aliceblue;
 }
 
 h1{
@@ -7,12 +8,14 @@ h1{
     font-weight: 100;
 }
 
+h2 {
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+}
 
-
-
-  li{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+li{
 
   
+}
+
   
