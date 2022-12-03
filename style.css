@@ -17,6 +17,9 @@ margin: 0;
 
 .box { 
 background-color: black;
+width: 30px;
+display: inline-block;
+padding: 20px 10px;
 
 }
 
